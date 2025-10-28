@@ -225,7 +225,7 @@ export default function UsedEnginesCarousel() {
     <section className="bg-black text-white py-16 px-4 sm:px-6 lg:px-8 relative">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-4xl sm:text-5xl lg:text-6xl font-light mb-12">
-          Used Engines for Salle
+          Used Engines for Sale
         </h2>
 
         <Slider {...settings}>
